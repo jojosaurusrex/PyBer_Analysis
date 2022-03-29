@@ -4,14 +4,14 @@
 - Data Source: city_data.csv, Pyber_ride_data.csv, ride_data.csv
 - Software: Python 3.10.2, Jupyter Notebook 4.10.3
 
-##Overview
+## Overview
 Pyber Analysis gave me an opportunity to learn and present my visual presentation skills by using matplotlib. I learned and presented how to:
 - create different types of charts using MATLAB and Object-Oriented approaches
 - annotate charts
 - use grouby function to manipulate data frames
 - summarize statistics by creating a new dataframe
 
-##Results
+## Results
 The results of the assignment revealed that there were differences in drivers, fares, and ride count across three different types of cities: rural, suburban, and urban. 
 
 ![Fig1](https://user-images.githubusercontent.com/98374315/160522140-04147034-7a1c-42ad-8c32-35b52e501d38.png)
@@ -36,5 +36,5 @@ Figure 5.
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/98374315/160522403-23119952-5443-415f-a709-b3327d68925a.png)
 Figure 6.
 
-##Summary
+## Summary
 One suggestion I would make to the CEO would be to offer an incentive to drivers that live/work in rural areas, so that there could be more drivers in that area which may lead to an increase of more riders. Another suggestion would be to offer urban drivers a differnt type of incentive after they have been working for a certain period of time because it will help retain the great drivers which could lead to more riders using Pyber. Lastly, Pyber should offer incentives to their customers by offering them some sort of credit during the periods of time when Pyber activity drops. Allowing Pyber to increase revenue by a bit more when they might have not otherwise.  
