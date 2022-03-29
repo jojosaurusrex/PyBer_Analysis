@@ -14,26 +14,26 @@ Pyber Analysis gave me an opportunity to learn and present my visual presentatio
 ##Results
 The results of the assignment revealed that there were differences in drivers, fares, and ride count across three different types of cities: rural, suburban, and urban. 
 
-[Figure 1]
+![Fig1](https://user-images.githubusercontent.com/98374315/160522140-04147034-7a1c-42ad-8c32-35b52e501d38.png)
 Figure 1.
 
-[Figure 2]
+![Fig2](https://user-images.githubusercontent.com/98374315/160522163-0d6c4071-b284-41b0-9241-e1a6fcb0b595.png)
 Figure 2.
 
-In the Figure 1 we can see thaat most of the rides are done within the urban cities and the least amount of activity occuring in the rural area. Figure 2 backs up this result with a boxplot, which presents the median, mode, and mean of the ride count data for each city type neatly on the same graph. 
+In the Figure 1 we can see that most of the rides are done within the urban cities and the least amount of activity occuring in the rural area. Figure 2 backs up this result with a boxplot, which presents the median, mode, and mean of the ride count data for each city type neatly on the same graph. 
 
-[Figure 3]
+![Fig3](https://user-images.githubusercontent.com/98374315/160522189-1d030c33-a333-487e-8fc5-f29fb1ae3da0.png)
 Figure 3.
 
-[Figure 4]
+![Fig4](https://user-images.githubusercontent.com/98374315/160522253-0265134a-0a59-4356-9f2b-ed30806ec721.png)
 Figure 4.
 
 In Figure 3, the data presents the mean, mode, and median of the fare data for each city type. This shows that urban rides cos the least of the three; while, rural rides cost the most of the three. The reason behind this could be due to the lack of drivers in the rural area versus how many drivers there are in urban areas. Figure 4 represents this data extremely well. Figure 5 summarizes the number of rides, drivers, total fares, average fare per ride, and driver over the four month period of data that we are analyzing. Figure 6 shows a summary of the fare paid by the rider across the different city types.
 
-[Figure 5]
+![DataPyber](https://user-images.githubusercontent.com/98374315/160522383-668d34f6-2ee4-4a1f-bd40-5ec9b38795f1.PNG)
 Figure 5.
 
-[Figure 6]
+![PyBer_fare_summary](https://user-images.githubusercontent.com/98374315/160522403-23119952-5443-415f-a709-b3327d68925a.png)
 Figure 6.
 
 ##Summary
